@@ -1,0 +1,274 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/school/241 labs/Projek/compile test
+vbetControl
+Z0 !s110 1732234700
+!i10b 1
+!s100 cloYI_l]eY8NeCZ8aBPK=0
+II`Hl9<PM8dWiTK=FfelK>3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/school/241 labs/Projek/main test
+w1731943086
+8../betControl.v
+F../betControl.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1732234700.000000
+Z5 !s107 ../debugmodules.v|../carddeck.v|../betControl.v|../dealerHand.v|../playerHand.v|../getCard.v|../shuffle.v|../statecontroller.v|../main.v|
+Z6 !s90 -reportprogress|300|../main.v|../statecontroller.v|../shuffle.v|../getCard.v|../playerHand.v|../dealerHand.v|../betControl.v|../carddeck.v|../debugmodules.v|
+!i113 1
+Z7 tCvgOpt 0
+nbet@control
+vcarddeck
+R0
+!i10b 1
+!s100 K<BZA`aRUTWIG`iLKSAGX3
+I5in^5U<nU<B4fD>imB[1k3
+R1
+R2
+Z8 w1731943087
+8../carddeck.v
+F../carddeck.v
+L0 39
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vcardshuffle
+R0
+!i10b 1
+!s100 G9o;YzCl<5oMcE;<lP=Ad3
+IOfU6RhnMP]O>2CY_?h7ad1
+R1
+R2
+Z9 w1732232308
+Z10 8../shuffle.v
+Z11 F../shuffle.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vcount3
+R0
+!i10b 1
+!s100 NGa6KZ?l[Y_4GV4K0XBbT2
+IeiahI7_6a[5KCYUaNjFfJ1
+R1
+R2
+R9
+R10
+R11
+L0 165
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vcount6
+R0
+!i10b 1
+!s100 @;h^4[d238QYflWWVEP8Y1
+I`FchTfd4COd6zcM2QFZfT3
+R1
+R2
+R9
+R10
+R11
+L0 153
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vdealerHand
+R0
+!i10b 1
+!s100 0gDcZFUmI;MhTc9lVbhcN0
+IjCoD]9]<dbfY>fzj;^^<`3
+R1
+R2
+w1732233863
+8../dealerHand.v
+F../dealerHand.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+ndealer@hand
+vget_card
+R0
+!i10b 1
+!s100 cZIQzOo;1aj?C<jE9jLH@3
+I^7HF1]oibnKN=9GSk:T>72
+R1
+R2
+w1732231469
+8../getCard.v
+F../getCard.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vHex7Segment
+R0
+!i10b 1
+!s100 FNf6<[WgR<kmfRVODSG4R1
+IY60dT2`24l82HhT3>cT>j0
+R1
+R2
+R8
+8../debugmodules.v
+F../debugmodules.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@hex7@segment
+vmain
+R0
+!i10b 1
+!s100 H57Ljg6TK4c9V_G602M4[2
+IZ<ZoC]::[X;jUNXma_g4o3
+R1
+R2
+w1732232805
+8../main.v
+F../main.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vplayerHand
+R0
+!i10b 1
+!s100 IlWa<fQ24^Ln4bi2miYml1
+I:XXVeb5TUHg0G7KK3ARHZ2
+R1
+R2
+w1732234299
+8../playerHand.v
+F../playerHand.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+nplayer@hand
+vrandom6
+R0
+!i10b 1
+!s100 Y9RG_XZB4d6AjRFhT=k?11
+ILJH80iChLm9OEj801k^MJ3
+R1
+R2
+R9
+R10
+R11
+L0 126
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vstate_controller
+R0
+!i10b 1
+!s100 @15Q7N`b^>cl96aiE6HBD1
+I05j9k?Q3PB]nDVBla1@7[1
+R1
+R2
+w1732234610
+8../statecontroller.v
+F../statecontroller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vtestbench
+R0
+!i10b 1
+!s100 iT;]iIj;z=4`dUN5f7bXh0
+I5mY;RT4hDSOBckGCIE>XS0
+R1
+R2
+w1732234142
+8testbench.v
+Ftestbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R7
